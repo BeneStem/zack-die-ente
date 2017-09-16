@@ -1,0 +1,20 @@
+{
+  "name": "zack-die-ente_skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "alexa-app": "^4.2.0",
+    "request": "^2.81.0",
+    "ssml-gib": "^0.7.2"
+  },
+  "author": {
+    "name": "Benedikt Stemmildt",
+    "email": "benedikt@stemmildt.com",
+    "url": "https://github.com/benestem"
+  },
+  "license": "Apache-2.0"
+}
