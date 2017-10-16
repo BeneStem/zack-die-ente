@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "alexa-app": "^4.2.0",
-    "request": "^2.81.0",
-    "ssml-gib": "^0.7.2"
+    "alexa-app": "4.2.0",
+    "request": "2.83.0",
+    "ssml-gib": "0.7.2"
   },
   "author": {
     "name": "Benedikt Stemmildt",
