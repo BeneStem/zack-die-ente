@@ -31,7 +31,6 @@
   },
   "devDependencies": {
     "@commitlint/cli": "4.2.1",
-    "@commitlint/config-angular": "4.2.1",
     "@types/alexa-sdk": "1.0.10",
     "@types/request": "2.0.6",
     "commitizen": "2.9.6",
